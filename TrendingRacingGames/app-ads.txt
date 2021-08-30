@@ -1,4 +1,5 @@
 facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
+google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
 google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 adtrue.com, 7786, DIRECT
 google.com, pub-3762254771375579, RESELLER, f08c47fec0942fa0
@@ -97,3 +98,5 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
+
+
