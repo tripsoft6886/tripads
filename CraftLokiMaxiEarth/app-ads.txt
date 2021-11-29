@@ -1,5 +1,5 @@
 google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
-
+facebook.com, 1077191049355162, DIRECT, c3e20eee3f780d68
 
 applovin.com, a902f931adc8adf385aa0ada2c5d2347, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
