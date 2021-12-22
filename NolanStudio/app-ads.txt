@@ -1,5 +1,7 @@
 google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
 
+facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
+
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
@@ -113,7 +115,7 @@ google.com, pub-7116023202161896, RESELLER
 telaria.com, rwd19-2300584, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2300584, RESELLER, 1a4e959a1b50034a
 
-applovin.com, a902f931adc8adf385aa0ada2c5d2347, DIRECT
+applovin.com, 4e3009689efbf0d8d3853664322962e3, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
 openx.com, 540785403, RESELLER, 6a698e2ec38604c6
