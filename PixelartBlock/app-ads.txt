@@ -7,6 +7,7 @@ google.com, pub-9591245615941392, DIRECT, f08c47fec0942fa0
 
 google.com, pub-6952843480895214, DIRECT, f08c47fec0942fa0
 google.com, pub-1566046669684553, DIRECT, f08c47fec0942fa0
+google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
 
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
