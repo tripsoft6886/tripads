@@ -1,5 +1,5 @@
-google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
-google.com, , DIRECT, f08c47fec0942fa0
+google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
+
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
