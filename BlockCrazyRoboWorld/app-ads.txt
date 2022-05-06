@@ -3,6 +3,7 @@ google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
 google.com, pub-2857599586325936, DIRECT, f08c47fec0942fa0
 
+
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
@@ -252,6 +253,8 @@ lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 yeahmobi.com, 5135195, RESELLER
 yeahmobi.com, 5135195, RESELLER
+admixplay.com, 2012, RESELLER
+bidease.com, exchange-20, RESELLER
 
 pangleglobal.com, 69708, DIRECT
 pubmatic.com, 161490, RESELLER,5d62403b186f2ace
