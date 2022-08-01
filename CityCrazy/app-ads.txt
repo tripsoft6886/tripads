@@ -281,3 +281,49 @@ synacor.com, 82460, DIRECT, e108f11b2cdf7d5b
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 opera.com, pub4007008646336, RESELLER, 55a0c5fd61378de3
+
+algorix.co, 54400, RESELLER, 5b394c12fea27a1d
+aralego.com, par-627DA26297666D280EA8323E33ABAED7, RESELLER
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100097, RESELLER, 03113cd04947736d
+gamoshi.io ,267-b4808 ,RESELLER ,20e30b2ae1f670f2
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+smartadserver.com, 4016, RESELLER
+smartadserver.com, 4237, RESELLER
+undertone.com, 4108, RESELLER
+yahoo.com, 59318, RESELLER
+yandex.com, 37982190, RESELLER
+appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
+yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
+triplelift.com, 10522, RESELLER, 6c33edb13117fd86
+conversantmedia.com, 100269, RESELLER, 03113cd04947736d
+engagebdr.com, 10537, RESELLER
+mars.media, 1010463, RESELLER
+gitberry.com, IG3S1B, RESELLER
+bidmachine.io, 161, RESELLER
+bidmachine.io, 162, RESELLER
+smartadserver.com, 4354, RESELLER
+pubmatic.com, 162017, RESELLER, 5d62403b186f2ace
+appnexus.com, 11664, RESELLER
+
+facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
+facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
+facebook.com, 717312789206994, DIRECT, c3e20eee3f780d68a
+facebook.com, 1077191049355162, DIRECT, c3e20eee3f780d68
+google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
+google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
+google.com, pub-7647808421428026, DIRECT, f08c47fec0942fa0
+google.com, pub-2857599586325936, DIRECT, f08c47fec0942fa0
+google.com, pub-5839511744003864, DIRECT, f08c47fec0942fa0
+google.com, pub-3160682466155181, DIRECT, f08c47fec0942fa0
+google.com, pub-8190506959251235, DIRECT, f08c47fec0942fa0
+google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
+google.com, pub-9861239042906842, DIRECT, f08c47fec0942fa0
+google.com, pub-6609573718115286, DIRECT, f08c47fec0942fa0
+google.com, pub-6172905758741898, DIRECT, f08c47fec0942fa0
+google.com, pub-4119271324924135, DIRECT, f08c47fec0942fa0
+google.com, pub-4377921322962307, DIRECT, f08c47fec0942fa0
+google.com, pub-8325335684558202, DIRECT, f08c47fec0942fa0
+google.com, pub-6569897252543213, DIRECT, f08c47fec0942fa0
