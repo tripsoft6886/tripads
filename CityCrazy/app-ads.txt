@@ -356,7 +356,7 @@ bidmachine.io, 161, RESELLER
 bidmachine.io, 162, RESELLER
 smartadserver.com, 4354, RESELLER
 pubmatic.com, 162017, RESELLER, 5d62403b186f2ace
-appnexus.com, 11664, RESELLER
+
 
 facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
