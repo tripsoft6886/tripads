@@ -1,11 +1,3 @@
-google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
-google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
-google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
-google.com, pub-7647808421428026, DIRECT, f08c47fec0942fa0
-
-facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
-facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
-
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
@@ -61,11 +53,11 @@ Pubnative.net, 1006856, RESELLER, d641df8625486a7b
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 stroeer.com, 17379, RESELLER
-
 unity.com, 2300584, DIRECT, 96cabb5fbdde37a7
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
+facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 reforge.in, 107, RESELLER
@@ -73,6 +65,7 @@ reforge.in, 353, RESELLER
 rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807
 tremorhub.com, rwd19-2300584, RESELLER, 1a4e959a1b50034a
@@ -136,6 +129,7 @@ algorix.co, 54400, RESELLER, 5b394c12fea27a1d
 aralego.com, par-627DA26297666D280EA8323E33ABAED7, RESELLER
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 conversantmedia.com, 100097, RESELLER, 03113cd04947736d
+facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
 gamoshi.io ,267-b4808 ,RESELLER ,20e30b2ae1f670f2
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
 openx.com, 540838151, RESELLER, 6a698e2ec38604c6
@@ -156,9 +150,6 @@ bidmachine.io, 162, RESELLER
 smartadserver.com, 4354, RESELLER
 pubmatic.com, 162017, RESELLER, 5d62403b186f2ace
 appnexus.com, 11664, RESELLER
-
-
-
 adcolony.com,197af3936679d34e,RESELLER,1ad675c9de6b5176
 admixer.co.kr,1289,RESELLER
 advertising.com,25034,RESELLER
@@ -180,7 +171,9 @@ chartboost.com,5d55f702facb6743686c50cc,RESELLER
 contextweb.com,562499,RESELLER,89ff185a4c4e857c
 contextweb.com,562569,RESELLER,89ff185a4c4e857c
 conversantmedia.com,100246,RESELLER,03113cd04947736d
+google.com, pub-7647808421428026, DIRECT, f08c47fec0942fa0
 conversantmedia.com,100269,RESELLER,03113cd04947736d
+google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
 conversantmedia.com,34975,RESELLER,03113cd04947736d
 conversantmedia.com,40881,RESELLER,03113cd04947736d
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
@@ -771,13 +764,13 @@ pubmatic.com, 161601, RESELLER, 5d62403b186f2ace
 contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 1361, RESELLER
 triplelift.com, 12552, RESELLER, 6c33edb13117fd86
-
 inmobi.com, 6bea72c3b2194388a988f96029ca3182, DIRECT, 83e75a7ae333ca9d
 engagebdr.com, 16, RESELLER
 gitberry.com, 31mbg, RESELLER
 vidoomy.com, 60653, RESELLER
 loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
+google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
@@ -964,7 +957,6 @@ meitu.com, 699, RESELLER
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 smartadserver.com, 4322, RESELLER
 appnexus.com, 11450, RESELLER
-
 vungle.com, 60bdc731a982ad0017edb6f1, DIRECT, c107d686becd2d77
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 adcolony.com, c7b2bb9f944ae42a, RESELLER, 1ad675c9de6b5176
@@ -1160,7 +1152,6 @@ xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 15984, RESELLER
-
 fyber.com, 215600, DIRECT
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
 adcolony.com, 2851dffbb0d51b5e, RESELLER

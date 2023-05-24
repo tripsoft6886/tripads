@@ -1,12 +1,3 @@
-google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
-google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
-google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
-
-
-facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
-facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
-
-
 unity.com, 2300584, DIRECT, 96cabb5fbdde37a7
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
@@ -114,6 +105,7 @@ thebrave.io, 9840732, RESELLER, c25b2154543746ac
 thebrave.io, 1234594, RESELLER, c25b2154543746ac
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
 admanmedia.com, 613, RESELLER
@@ -209,6 +201,7 @@ pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 rhythmone.com, 3383599585, RESELLER, a670c89d4a324e47
+google.com, pub-5904408074441373, DIRECT, f08c47fec0942fa0
 rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
@@ -230,8 +223,6 @@ velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
 webeyemob.com, 70097, RESELLER
 webeyemob.com, 70104, RESELLER
-
-
 adcolony.com,197af3936679d34e,RESELLER,1ad675c9de6b5176
 admixer.co.kr,1289,RESELLER
 advertising.com,25034,RESELLER
@@ -251,6 +242,7 @@ bidmachine.io,59,RESELLER
 Blis.com,33,RESELLER,61453ae19a4b73f4
 chartboost.com,5d55f702facb6743686c50cc,RESELLER
 contextweb.com,562499,RESELLER,89ff185a4c4e857c
+google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
 contextweb.com,562569,RESELLER,89ff185a4c4e857c
 conversantmedia.com,100246,RESELLER,03113cd04947736d
 conversantmedia.com,100269,RESELLER,03113cd04947736d
@@ -1127,6 +1119,7 @@ prequel.tv, 518, RESELLER
 mintegral.com, 10003, RESELLER
 themediagrid.com, FH3TKJ, RESELLER, 35d5010d7789b49d
 peak226.com, 12900, RESELLER
+facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
 appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
 outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
@@ -1410,6 +1403,7 @@ meitu.com, 179, RESELLER
 meitu.com, 253, RESELLER
 mintegral.com, 10026, RESELLER
 mintegral.com, 10030, RESELLER
+facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6
 openx.com, 539315083, RESELLER, 6a698e2ec38604c6
