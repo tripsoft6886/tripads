@@ -39,6 +39,7 @@ bidmachine.io, 114, RESELLER
 bidmachine.io, 67, RESELLER
 google.com, pub-5544963362143736, RESELLER
 google.com, pub-9527320069011732, RESELLER
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 google.com, pub-7116023202161896, RESELLER
 google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
