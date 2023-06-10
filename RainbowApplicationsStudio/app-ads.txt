@@ -619,6 +619,9 @@ appnexus.com, 14077, RESELLER
 axonix.com, 56716, RESELLER
 blis.com, 74, RESELLER
 indexexchange.com, 191572, RESELLER
+
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
+
 inmobi.com, 1e13a47050bc40e29ef24c145820180d, RESELLER
 inmobi.com, 7c9e112a810a4b639bb6af3fa397233e, RESELLER
 loopme.com, 5176, RESELLER

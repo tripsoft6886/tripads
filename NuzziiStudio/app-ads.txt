@@ -85,6 +85,9 @@ yandex.com, 37982190, RESELLER
 appnexus.com, 13074, RESELLER, f5ab79cb980f11d1
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 triplelift.com, 10522, RESELLER, 6c33edb13117fd86
+
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
+
 conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 engagebdr.com, 10537, RESELLER
 mars.media, 1010463, RESELLER
