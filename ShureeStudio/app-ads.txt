@@ -1,3 +1,7 @@
+google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
+
+facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
+
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
@@ -171,7 +175,6 @@ contextweb.com,562499,RESELLER,89ff185a4c4e857c
 contextweb.com,562569,RESELLER,89ff185a4c4e857c
 conversantmedia.com,100246,RESELLER,03113cd04947736d
 conversantmedia.com,100269,RESELLER,03113cd04947736d
-google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
 facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
 conversantmedia.com,34975,RESELLER,03113cd04947736d
 conversantmedia.com,40881,RESELLER,03113cd04947736d
