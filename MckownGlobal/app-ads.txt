@@ -1,3 +1,11 @@
+facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
+
+facebook.com, 210363748202873, DIRECT, c3e20eee3f780d68
+
+facebook.com, 717312789206994, DIRECT, c3e20eee3f780d68
+
+facebook.com, 1119960079391473, DIRECT, c3e20eee3f780d68
+
 unity.com, 2300584, DIRECT, 96cabb5fbdde37a7
 indexexchange.com, 194080, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
@@ -94,7 +102,6 @@ bidmachine.io, 162, RESELLER
 smartadserver.com, 4354, RESELLER
 pubmatic.com, 162017, RESELLER, 5d62403b186f2ace
 appnexus.com, 11664, RESELLER
-facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 mintegral.com, 24640, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
