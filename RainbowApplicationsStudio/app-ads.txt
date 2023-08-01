@@ -7,3 +7,5 @@ google.com, pub-7647808421428026, DIRECT, f08c47fec0942fa0
 facebook.com, 800526951695704, DIRECT, c3e20eee3f780d68
 
 facebook.com, 683395810285956, DIRECT, c3e20eee3f780d68
+
+google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
