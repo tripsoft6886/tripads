@@ -1412,3 +1412,7 @@ tritondigital.com, 38083, RESELLER, 19b4454d0b87b58b
 appnexus.com, 14256, RESELLER, f5ab79cb980f11d1
 xandr.com, 14344, RESELLER
 
+
+pubpower.io, 2548, DIRECT
+google.com, pub-6839973589095521, RESELLER, f08c47fec0942fa0
+google.com, pub-6839973589095521, DIRECT, f08c47fec0942fa0
