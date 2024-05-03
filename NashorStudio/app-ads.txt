@@ -1,5 +1,6 @@
 google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
 google.com, pub-6172905758741898, DIRECT, f08c47fec0942fa0
+google.com, pub-5839511744003864, DIRECT, f08c47fec0942fa0
 
 pangleglobal.com, 69708, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
