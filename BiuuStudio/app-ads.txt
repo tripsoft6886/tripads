@@ -2,6 +2,7 @@ google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
 facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 google.com, pub-6172905758741898, DIRECT, f08c47fec0942fa0
 google.com, pub-7647808421428026, DIRECT, f08c47fec0942fa0
+google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 
 applovin.com, c8b7d856f4e4e44847b84d6dd2d7dcec, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
