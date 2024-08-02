@@ -31,6 +31,7 @@ video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 
+google.com, pub-2857599586325936, DIRECT, f08c47fec0942fa0
 facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 facebook.com, 157517135307120, DIRECT, c3e20eee3f780d68
 facebook.com, 717312789206994, DIRECT, c3e20eee3f780d68a
