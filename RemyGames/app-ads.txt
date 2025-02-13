@@ -17,6 +17,42 @@ facebook.com, 665404123959897, DIRECT, c3e20eee3f780d68
 facebook.com, 549285922282293, DIRECT, c3e20eee3f780d68
 >>>>>>> Stashed changes
 
+odeeo.io,140277024,DIRECT,36cfd73091d5c3fc
+targetspot.com,231,RESELLER,feb28ed826dcf532
+thisisdax.com,5285,RESELLER
+adswizz.com,584,RESELLER
+adswizz.com,172,RESELLER
+pubmatic.com,165207,RESELLER,5d62403b186f2ace
+adswizz.com,80,RESELLER
+adswizz.com,318,RESELLER
+adswizz.com,484,RESELLER
+conversantmedia.com,100704,RESELLER,03113cd04947736d
+smartadserver.com,4525,RESELLER,060d053dcf45cbf3
+rubiconproject.com,20488,RESELLER,0bfd66d529a55807
+improvedigital.com,2174,RESELLER
+xandr.com,14168,RESELLER
+video.unrulymedia.com,744858541,RESELLER
+rubiconproject.com,9753,RESELLER,0bfd66d529a55807
+tritondigital.com,94813,RESELLER,19b4454d0b87b58b
+rubiconproject.com,24084,RESELLER,0bfd66d529a55807
+rubiconproject.com,16418,RESELLER,0bfd66d529a55807
+improvedigital.com,2174_231,RESELLER
+appnexus.com,7265,RESELLER,f5ab79cb980f11d1
+tritondigital.com,44733,RESELLER,19b4454d0b87b58b
+appnexus.com,1577,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,9755,RESELLER,0bfd66d529a55807
+adswizz.com,targetspot,RESELLER
+thisisdax.com,dax,RESELLER
+thisisdax.com,5374,RESELLER
+thisisdax.com,5288,RESELLER
+adswizz.com,odeeo,RESELLER
+programmaticx.ai, 549201043, DIRECT, b42d42eb28400efa
+sonobi.com, f7b2a5d226, RESELLER, d1a215d9eb5aee9e
+adyoulike.com, 02bbfc5dd0707834f452ab1bbe855a83, RESELLER
+loopme.com, 14129, RESELLER, 6c8d5f95897a5a3b
+consumable.com, 2001621, RESELLER, aefcd3d2f45b5070
+
+
 ironsrc.com, 302243, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
