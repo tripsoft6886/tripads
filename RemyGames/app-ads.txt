@@ -12,6 +12,8 @@ google.com, pub-5839511744003864, DIRECT, f08c47fec0942fa0
 facebook.com, 575680946524596, DIRECT, c3e20eee3f780d68
 facebook.com, 158062881538703, DIRECT, c3e20eee3f780d68
 google.com, pub-4377921322962307, DIRECT, f08c47fec0942fa0
+google.com, pub-8190506959251235, DIRECT, f08c47fec0942fa0
+
 
 <<<<<<< Updated upstream
 facebook.com, 665404123959897, DIRECT, c3e20eee3f780d68
