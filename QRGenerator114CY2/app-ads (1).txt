@@ -1,10 +1,3 @@
-<<<<<<< Updated upstream
-google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
-google.com, pub-6172905758741898, DIRECT, f08c47fec0942fa0
-facebook.com, 158062881538703, DIRECT, c3e20eee3f780d68
-facebook.com, 665404123959897, DIRECT, c3e20eee3f780d68
-facebook.com, 658985071204056, DIRECT, c3e20eee3f780d68
-=======
 facebook.com, 717312789206994, DIRECT, c3e20eee3f780d68
 google.com, pub-3020711908526811, DIRECT, f08c47fec0942fa0
 google.com, pub-6820583732303833, DIRECT, f08c47fec0942fa0
@@ -332,4 +325,3 @@ google.com, pub-4119271324924135, DIRECT, f08c47fec0942fa0
 google.com, pub-4377921322962307, DIRECT, f08c47fec0942fa0
 google.com, pub-8325335684558202, DIRECT, f08c47fec0942fa0
 google.com, pub-6569897252543213, DIRECT, f08c47fec0942fa0
->>>>>>> Stashed changes
